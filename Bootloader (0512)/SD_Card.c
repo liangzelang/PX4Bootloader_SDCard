@@ -1,6 +1,6 @@
 # include <libopencm3/stm32/rcc.h>
 # include <libopencm3/stm32/gpio.h>
-#include  <string.h>   //好像 用不了
+#include  <string.h>   
 
 # include <libopencm3/stm32/common/gpio_common_f234.h>
 #include "sdio.h"
