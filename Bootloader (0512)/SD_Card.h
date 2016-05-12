@@ -2,7 +2,7 @@
  * SD_Card.h
  *
  *  Created on: 2016-4-25
- *      Author: Administrator
+ *      Author: lzl
  */
 
 #ifndef SD_CARD_H_
