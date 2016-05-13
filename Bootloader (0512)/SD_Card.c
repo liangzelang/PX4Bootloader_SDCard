@@ -1,3 +1,5 @@
+/*this file is initialise SD card , and add some API for FATFS*/
+
 # include <libopencm3/stm32/rcc.h>
 # include <libopencm3/stm32/gpio.h>
 #include  <string.h>   

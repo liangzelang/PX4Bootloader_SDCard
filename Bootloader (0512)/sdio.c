@@ -4,7 +4,8 @@
 
  *
  *  Created on: 2016-4-25
- *      Author: lzl
+ *  Author: lzl
+ *  this file contains some defines for SDIO ,and the SDIO.c will make the initialize of SD_Card easy 
  */
 
 
